@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "learning node, express and mongodb",
+  "homepage": "https://github.com/rohxn-rai/natours#readme",
+  "bugs": {
+    "url": "https://github.com/rohxn-rai/natours/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohxn-rai/natours.git"
+  },
+  "license": "ISC",
+  "author": "Rohan Rai",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
